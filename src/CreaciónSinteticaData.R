@@ -3,11 +3,8 @@ graphics.off() # clear the list of graphs
 options(digits = 3) # number of digits to display
 options(scipen=999)
 
-# Directorio 
-setwd("C:/Users/vsald/Desktop/T3MKT")
 
-
-## Par√°metros
+## Par·metros
 
 clientes <- 1000
 preguntas <- 12
